@@ -2,7 +2,7 @@
 
 import { motion } from "framer-motion";
 import { campaignCards } from "@/lib/data/campaign-data";
-import { fadeInUp, staggerContainer } from "@/lib/animations/framer-motion";
+import { staggerContainer } from "@/lib/animations/framer-motion";
 
 const CampaignGrid = () => {
   return (
